@@ -22,7 +22,8 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ### [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![print](assets/print.png)
+![312_1](assets/312_1.png)
+![312_2](assets/312_2.png)
 
 ### [questao](link)
 
