@@ -1,4 +1,4 @@
-# Programação Dinâmica
+# Dynamic Programming
 
 **Conteúdo da Disciplina**: Programação Dinâmica
 
