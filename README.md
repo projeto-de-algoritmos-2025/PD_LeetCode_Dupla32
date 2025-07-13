@@ -17,7 +17,8 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ### [42. Trapping Rain Water](lhttps://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![print](assets/print.png)
+![42_1](assets/42_1.png)
+![42_2](assets/42_2.png)
 
 ### [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/?envType=problem-list-v2&envId=dynamic-programming)
 
