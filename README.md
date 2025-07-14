@@ -49,4 +49,4 @@ Apenas execute o código
 
 ## Vídeo 
 
-[![Video]()
+[![Video](https://youtu.be/peSrz7t2BIk)
