@@ -30,7 +30,7 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ![10_1](assets/10_1.png)
 ![10_2](assets/10_2.png)
 
-### [questao](https://leetcode.com/problems/count-the-repetitions/description/?envType=problem-list-v2&envId=dynamic-programming)
+### [466. Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/description/?envType=problem-list-v2&envId=dynamic-programming)
 
 ![466_1](assets/466_1.png)
 ![466_2](assets/466_2.png)
