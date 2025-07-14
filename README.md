@@ -15,7 +15,7 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ## Screenshots
 
-### [42. Trapping Rain Water](lhttps://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=dynamic-programming)
+### [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=dynamic-programming)
 
 ![42_1](assets/42_1.png)
 ![42_2](assets/42_2.png)
@@ -25,13 +25,15 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ![312_1](assets/312_1.png)
 ![312_2](assets/312_2.png)
 
-### [questao](link)
+### [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![print](assets/print.png)
+![10_1](assets/10_1.png)
+![10_2](assets/10_2.png)
 
-### [questao](link)
+### [questao](https://leetcode.com/problems/count-the-repetitions/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-![print](assets/print.png)
+![466_1](assets/466_1.png)
+![466_2](assets/466_2.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
